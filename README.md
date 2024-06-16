@@ -5,3 +5,4 @@
 - 🚀 In my spare time I develop indie games, I have  a Patreon page for exclusive content related to my YouTube channel for web and game development.
 - [full-stack-portfolio.com/](https://full-stack-portfolio.com/)
 
+
