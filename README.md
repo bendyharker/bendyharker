@@ -9,4 +9,4 @@ iNeada.com.au, a car sales and local deals platform.  [iNeada.com.au/](https://i
 
 🌐 Check out my portfolio: full-stack-portfolio.com  [full-stack-portfolio.com/](https://full-stack-portfolio.com)
 
-📖 I also wrote The 10X Freelancer, a guide for programmers looking to crush it in freelancing. [the10xfreelancer.com/](https://the10xfreelancer.com
+📖 I also wrote The 10X Freelancer, a guide for programmers looking to crush it in freelancing. [the10xfreelancer.com/](https://the10xfreelancer.com)
